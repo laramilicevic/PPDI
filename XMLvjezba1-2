@@ -1,1 +1,31 @@
-
+<?xml version="1.0" encoding="UTF-8">
+<student>
+ <podaci>
+  <ime>Ana</ime>
+  <prezime>Anić</prezime>
+  <JMBG>0123456789123</JMGB>
+  <datumRodjenja>2003-01-01</datumRodjenja>
+  <godinaStudija>2</godinaStudija>
+ </podaci>
+ <kontakt>
+  <email>ana.anić@gmail.com</email>
+  <telefon>0911234567</telefon>
+ </kontakt>
+ <kolegiji>
+  <kolegij>
+  <nazivKolegija>Matematika</nazivKolegija>
+  <imeProfesora>Marko Marić</imeProfesora>
+  <ECTS>6</ECTS>
+  </kolegij>
+<kolegij>
+  <nazivKolegija>Programiranje</nazivKolegija>
+  <imeProfesora>Ivana Ivić</imeProfesora>
+  <ECTS>5</ECTS>
+  </kolegij>
+<kolegij>
+  <nazivKolegija>Tjelesni</nazivKolegija>
+  <imeProfesora>Lana Lanić</imeProfesora>
+  <ECTS>1</ECTS>
+  </kolegij>
+ </kolegiji>
+</student>
