@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8">
+<student>
+ <podaci>
+  <ime>Ana</ime>
+  <prezime>Anić</prezime>
+  <JMBG>0123456789123</JMGB>
+  <datumRodjenja>2003-01-01</datumRodjenja>
+  <godinaStudija>2</godinaStudija>
+  <studijskiProgram>informatika</studijskiProgram>
+ </podaci>
+ <adresa>
+  <ulica>Ivana Mažuranića</ulica>
+  <grad>Zagreb</grad>
+  <postanskiBroj>10 000</postanskiBroj>
+ </adresa>
+</student>
