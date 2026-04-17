@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Osoba spol="Ž">
+
+    <Ime>Ana</Ime>
+    <Prezime>Anić</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica Ivana Mažuranića 3</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <Kontakt>
+        <Mobitel>0912345678</Mobitel>
+        <KucniTelefon>82946</KucniTelefon>
+        <Email>ana.anic@gmail.com</Email>
+    </Kontakt>
+
+</Osoba>
