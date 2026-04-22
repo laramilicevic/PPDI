@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="narudzba.xsd">
+
+    <kupac>Ana Anić</kupac>
+    <datumNarudzbe>2026-01-14</datumNarudzbe>
+    <kolicina>37</kolicina>
+    <statusNarudzbe>poslana</statusNarudzbe>
+    <ukupanIznos valuta="EUR">216.83</ukupanIznos>
+
+</narudzba>
