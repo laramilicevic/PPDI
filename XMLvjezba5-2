@@ -1,0 +1,26 @@
+1. svaki prvi BBB koji je prvi BBB unutar svog roditelja
+<BBB id="b1" grupa="A">XML</BBB>
+<BBB id="b4" grupa="C">DOM</BBB>
+<BBB id="b5">JSON</BBB>
+<BBB id="b6" name="zadnji">Java Script</BBB> 
+
+2. prvi BBB element unutar svog elementa roditelja AAA
+<BBB id="b1" grupa="A">XML</BBB>
+
+3. zadnji BBB element u svom roditelju 
+<BBB name="bbb" grupa="A">XSLT</BBB>
+<BBB name="test">AJAX</BBB>
+<BBB id="b6" name="zadnji">Java Script</BBB>
+
+4. prvi dijete element unutar roditelja A
+<BBB id="b1" grupa="A">XML</BBB>
+
+5. svi elementi BBB koji imaju atribut id i atribut grupa
+<BBB id="b1" grupa="A">XML</BBB>
+<BBB id="b2" grupa="B">PHP</BBB>
+<BBB id="b4" grupa="C">DOM</BBB>
+
+6. elemente BBB koji imaju atribut id i nemaju atribut grupa
+<BBB id="b3">XPath</BBB>
+<BBB id="b5">JSON</BBB>
+<BBB id="b6" name="zadnji">Java Script</BBB>
